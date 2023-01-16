@@ -32,5 +32,15 @@ thead{
 }
 
 .tablebody1{
-    background-color: aqua;
+    background-color: rgb(123, 190, 190);
 }
+
+.tablebody2{
+    background-color: rgb(123, 190, 190);
+}
+
+h3{
+    color: grey;
+}
+
+
