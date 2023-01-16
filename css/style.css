@@ -23,5 +23,14 @@
 }
 
 .Colorspan1{
-    color: rgb(0, 110, 255);
+    color: rgb(4, 98, 219);
+}
+
+thead{
+    background-color: rgb(0, 123, 255);
+    color: rgb(255, 255, 255);
+}
+
+.tablebody1{
+    background-color: aqua;
 }
